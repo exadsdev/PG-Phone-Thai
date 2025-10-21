@@ -1,0 +1,7 @@
+{
+  "buildCommand": "npm run build",
+  "installCommand": "npm ci || npm i",
+  "env": {
+    "NEXT_TELEMETRY_DISABLED": "1"
+  }
+}
